@@ -1,0 +1,70 @@
+body{
+	font-family: 'Montserrat', sans-serif, 'Oleo Script', cursive;
+	
+}
+
+.text-start{
+	font-weight: 700;
+}
+
+
+.container{
+	display: flex;
+	margin-top: 53px;
+}
+
+.inner{
+	margin-top: 170px;
+}
+
+.form-control{
+	color: grey;
+}
+
+.form-select{
+	color: grey;
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background: url('Vector.png') no-repeat right center;
+    /*определяет область позиционирования фонового рисунка*/
+
+
+    
+    
+   
+
+}
+
+
+
+.form-label{
+	font-weight: 300;
+}
+
+.button{
+	background-color: #06A9B3;
+	border-color: #06A9B3;
+	padding: 12px 32px;
+	margin-top: 40px;
+	font-size: 16px;
+}
+
+.check{
+	background-color: #06A9B3;
+}
+
+.check:checked {
+	background-color: #06A9B3;
+	border-color: #06A9B3;
+}
+
+.check_inpet:checked {
+	background-color: #06A9B3;
+	border-color: #06A9B3;
+}
+
+
+
+
